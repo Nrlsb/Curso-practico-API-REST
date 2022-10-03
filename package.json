@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nrlsb/Curso-practico-API-REST.git"
+  },
+  "author": "Lucas Benitez <luksbenitez01@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nrlsb/Curso-practico-API-REST/issues"
+  },
+  "homepage": "https://github.com/Nrlsb/Curso-practico-API-REST#readme"
+}
